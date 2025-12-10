@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shraddha Chavan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Passionate Software Developer From India</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tg0YDQ5rCk3Y2bwlHKiR60_07011AAep/view?usp=drivesdk](https://drive.google.com/file/d/1tg0YDQ5rCk3Y2bwlHKiR60_07011AAep/view?usp=drivesdk)
 
