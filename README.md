@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/shraddha-chavan-941ba02b7/</h3> 
 <p align="left">
 </p>
 
